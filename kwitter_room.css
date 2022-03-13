@@ -1,0 +1,17 @@
+.form-control{
+    width:900px;
+    height:35px;
+    border-radius:80px;
+    border-color: rgb(66, 113, 241);
+
+}
+body{
+    text-align:center;
+    background-color: rgb(66, 113, 241);
+}
+#arbutton{
+    background-color: rgb(230, 209, 25);
+    width:350px;
+    height:30px;
+    border-radius: 82px;;
+}
